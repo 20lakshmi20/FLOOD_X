@@ -1,0 +1,6 @@
+lake_id,lake_name,latitude,longitude,previous_area_km2,current_area_km2,elevation_m,area_change_percent,glof_risk_score,glof_risk_level,significant_change
+GL001,Lake Alpha,30.25,79.1,0.82,0.91,4700,10.97560975609757,65,HIGH,True
+GL002,Lake Beta,30.42,79.25,1.2,1.32,4850,10.000000000000009,65,HIGH,True
+GL003,Lake Gamma,30.18,78.95,0.55,0.57,4550,3.636363636363619,20,LOW,False
+GL004,Lake Delta,30.52,79.4,0.95,1.12,5100,17.89473684210528,65,HIGH,True
+GL005,Lake Epsilon,30.35,79.0,1.4,1.43,4900,2.142857142857145,20,LOW,False

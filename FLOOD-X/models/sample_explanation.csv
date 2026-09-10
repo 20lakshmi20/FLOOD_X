@@ -1,0 +1,14 @@
+feature,value,shap_value,impact
+rainfall_24h_mm,194.67,0.12193060711026375,Increases flood risk
+soil_moisture_percent,98.0,0.10099661115478847,Increases flood risk
+rainfall_6h_mm,112.55,0.0960648996883163,Increases flood risk
+rainfall_1h_mm,54.91,0.08413323037458798,Increases flood risk
+rainfall_3h_mm,80.05,0.07961777730206973,Increases flood risk
+river_level_m,4.63,0.02492804998542441,Increases flood risk
+river_rise_intensity,1.0649,0.013907488639735567,Increases flood risk
+slope_degrees,22.41,-0.008118017671380847,Decreases flood risk
+elevation_m,793.8,-0.007892493118457914,Decreases flood risk
+terrain_exposure,15.455172413793102,-0.004323839633315418,Decreases flood risk
+river_rise_rate_m_per_hr,0.23,0.003284782178929334,Increases flood risk
+rainfall_intensity,0.2806255430060816,-0.0027908320280214285,Decreases flood risk
+distance_from_river_km,1.35,-0.001280030855247854,Decreases flood risk
